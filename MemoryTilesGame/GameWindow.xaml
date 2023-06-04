@@ -1,0 +1,146 @@
+﻿<Window x:Class="MemoryTilesGame.GameWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MemoryTilesGame"
+        mc:Ignorable="d"
+        Title="Memory Matching Game" Height="532.9" Width="799">
+    <Window.Resources>
+        <Style x:Key="ButtonStyle" TargetType="{x:Type Button}">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="FontSize" Value="25"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Height" Value="80"/>
+            <Setter Property="Width" Value="150"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border CornerRadius="7,7,7,7" Background="{TemplateBinding Background}">
+                            <ContentPresenter x:Name="contentPresenter" ContentTemplate="{TemplateBinding ContentTemplate}" Content="{TemplateBinding  Content}" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"  Margin="{TemplateBinding Padding}" VerticalAlignment="{TemplateBinding  VerticalContentAlignment}"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="FontSize" Value="30"/>
+                    <Setter Property="Cursor" Value="Hand"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        <Image x:Key="Close1" Source="hide.png" Height="50" Width="50" />
+        <Image x:Key="Close2" Source="hide.png" Height="50" Width="50" />
+        <Image x:Key="Close3" Source="hide.png" Height="50" Width="50" />
+        <Image x:Key="Close4" Source="hide.png" Height="50" Width="50" />
+        <Image x:Key="Close5" Source="hide.png" Height="50" Width="50" />
+        <Image x:Key="Close6" Source="hide.png" Height="50" Width="50" />
+        <Image x:Key="Close7" Source="hide.png" Height="50" Width="50" />
+        <Image x:Key="Close8" Source="hide.png" Height="50" Width="50" />
+        <Image x:Key="Close9" Source="hide.png" Height="50" Width="50" />
+        <Image x:Key="Close10" Source="hide.png" Height="50" Width="50" />
+        <Image x:Key="Close11" Source="hide.png" Height="50" Width="50" />
+        <Image x:Key="Close12" Source="hide.png" Height="50" Width="50" />
+        <Image x:Key="Close13" Source="hide.png" Height="50" Width="50" />
+        <Image x:Key="Close14" Source="hide.png" Height="50" Width="50" />
+        <Image x:Key="Close15" Source="hide.png" Height="50" Width="50" />
+        <Image x:Key="Close16" Source="hide.png" Height="50" Width="50" />
+        <Image x:Key="Close17" Source="hide.png" Height="50" Width="50" />
+        <Image x:Key="Close18" Source="hide.png" Height="50" Width="50" />
+        <Image x:Key="Close19" Source="hide.png" Height="50" Width="50" />
+        <Image x:Key="Close20" Source="hide.png" Height="50" Width="50" />
+        <Image x:Key="Pic1" Source="pic0.png" Height="50" Width="50"/>
+        <Image x:Key="Pic2" Source="pic0.png" Height="50" Width="50"/>
+        <Image x:Key="Pic3" Source="pic0.png" Height="50" Width="50"/>
+        <Image x:Key="Pic4" Source="pic0.png" Height="50" Width="50"/>
+        <Image x:Key="Pic5" Source="pic0.png" Height="50" Width="50"/>
+        <Image x:Key="Pic6" Source="pic0.png" Height="50" Width="50"/>
+        <Image x:Key="Pic7" Source="pic0.png" Height="50" Width="50"/>
+        <Image x:Key="Pic8" Source="pic0.png" Height="50" Width="50"/>
+        <Image x:Key="Pic9" Source="pic0.png" Height="50" Width="50"/>
+        <Image x:Key="Pic10" Source="pic0.png" Height="50" Width="50"/>
+        <Image x:Key="Pic11" Source="pic0.png" Height="50" Width="50"/>
+        <Image x:Key="Pic12" Source="pic0.png" Height="50" Width="50"/>
+        <Image x:Key="Pic13" Source="pic0.png" Height="50" Width="50"/>
+        <Image x:Key="Pic14" Source="pic0.png" Height="50" Width="50"/>
+        <Image x:Key="Pic15" Source="pic0.png" Height="50" Width="50"/>
+        <Image x:Key="Pic16" Source="pic0.png" Height="50" Width="50"/>
+        <Image x:Key="Pic17" Source="pic0.png" Height="50" Width="50"/>
+        <Image x:Key="Pic18" Source="pic0.png" Height="50" Width="50"/>
+        <Image x:Key="Pic19" Source="pic0.png" Height="50" Width="50"/>
+        <Image x:Key="Pic20" Source="pic0.png" Height="50" Width="50"/>
+    </Window.Resources>
+    <Grid>
+        <Image Source="C:\Users\olivia\OneDrive\Desktop\tema1\MemoryTilesGame\bgi1.jpg" VerticalAlignment="Center" Stretch="Fill"/>
+        <Grid HorizontalAlignment="Left" Height="445" Margin="0,10,0,0" VerticalAlignment="Top" Width="761">
+            <WrapPanel HorizontalAlignment="Left" Height="296" Margin="229,62,0,0" VerticalAlignment="Top" Width="374" Name="panel">
+                <Button x:Name ="button1_Copy1" Style="{StaticResource ButtonStyle}" Height="73" Width="71" >
+                    <DynamicResource ResourceKey="Close1"/>
+                </Button>
+                <Button x:Name ="button1_Copy2" Style="{StaticResource ButtonStyle}" Height="73" Width="71">
+                    <DynamicResource ResourceKey="Close2"/>
+                </Button>
+                <Button x:Name ="button1_Copy3" Style="{StaticResource ButtonStyle}" Height="73" Width="71">
+                    <DynamicResource ResourceKey="Close3"/>
+                </Button>
+                <Button x:Name ="button1_Copy4" Style="{StaticResource ButtonStyle}" Height="73" Width="71">
+                    <DynamicResource ResourceKey="Close4"/>
+                </Button>
+                <Button x:Name ="button1_Copy5" Style="{StaticResource ButtonStyle}" Height="73" Width="71">
+                    <DynamicResource ResourceKey="Close5"/>
+                </Button>
+                <Button x:Name ="button1_Copy6" Style="{StaticResource ButtonStyle}" Height="73" Width="71">
+                    <DynamicResource ResourceKey="Close6"/>
+                </Button>
+                <Button x:Name ="button1_Copy7" Style="{StaticResource ButtonStyle}" Height="73" Width="71">
+                    <DynamicResource ResourceKey="Close7"/>
+                </Button>
+                <Button x:Name ="button1_Copy8" Style="{StaticResource ButtonStyle}" Height="73" Width="71">
+                    <DynamicResource ResourceKey="Close8"/>
+                </Button>
+                <Button x:Name ="button1_Copy9" Style="{StaticResource ButtonStyle}" Height="73" Width="71">
+                    <DynamicResource ResourceKey="Close9"/>
+                </Button>
+                <Button x:Name ="button1_Copy10" Style="{StaticResource ButtonStyle}" Height="73" Width="71" >
+                    <DynamicResource ResourceKey="Close10"/>
+                </Button>
+                <Button x:Name ="button1_Copy11"  Style="{StaticResource ButtonStyle}" Height="73" Width="71" >
+                    <DynamicResource ResourceKey="Close11"/>
+                </Button>
+                <Button x:Name ="button1_Copy12" Style="{StaticResource ButtonStyle}" Height="73" Width="71" >
+                    <DynamicResource ResourceKey="Close12"/>
+                </Button>
+                <Button x:Name ="button1_Copy13" Style="{StaticResource ButtonStyle}" Height="73" Width="71" >
+                    <DynamicResource ResourceKey="Close13"/>
+                </Button>
+                <Button x:Name ="button1_Copy14" Style="{StaticResource ButtonStyle}" Height="73" Width="71" >
+                    <DynamicResource ResourceKey="Close14"/>
+                </Button>
+                <Button x:Name ="button1_Copy15" Style="{StaticResource ButtonStyle}" Height="73" Width="71" >
+                    <DynamicResource ResourceKey="Close15"/>
+                </Button>
+                <Button x:Name ="button1_Copy16" Style="{StaticResource ButtonStyle}" Height="73" Width="71" >
+                    <DynamicResource ResourceKey="Close16"/>
+                </Button>
+                <Button x:Name ="button1_Copy17" Style="{StaticResource ButtonStyle}" Height="73" Width="71" >
+                    <DynamicResource ResourceKey="Close17"/>
+                </Button>
+                <Button x:Name ="button1_Copy18" Style="{StaticResource ButtonStyle}" Height="73" Width="71" >
+                    <DynamicResource ResourceKey="Close18"/>
+                </Button>
+                <Button x:Name ="button1_Copy19" Style="{StaticResource ButtonStyle}" Height="73" Width="71" >
+                    <DynamicResource ResourceKey="Close19"/>
+                </Button>
+                <Button x:Name ="button1_Copy20" Style="{StaticResource ButtonStyle}" Height="73" Width="71" >
+                    <DynamicResource ResourceKey="Close20"/>
+                </Button>
+            </WrapPanel>
+            <Button Name="StartButton" Content="Start"  HorizontalAlignment="Left" Height="43" Style="{StaticResource ButtonStyle}" Margin="332,363,0,0" VerticalAlignment="Top" Width="150" Click="Restart_Click"/>
+            <TextBlock Name="Level" HorizontalAlignment="Left" Height="48" Margin="332,30,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150"><Run/><LineBreak/><Run/></TextBlock>
+            <Label Name="TimerLabel" Content="00:00" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,397,463,0" FontSize="24" FontWeight="Bold" Foreground="White" Height="68" Width="114"/>
+            <Label Content="Remaining time:" Margin="28,401,492,10" Foreground="White" FontSize="20"/>
+        </Grid>
+
+    </Grid>
+</Window>

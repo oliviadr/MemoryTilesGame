@@ -1,0 +1,53 @@
+﻿<Window x:Class="MemoryTilesGame.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MemoryTilesGame"
+        mc:Ignorable="d"
+        Title="SignIn" Height="532.9" Width="799">
+    <Window.Resources>
+        <Style x:Key="ButtonStyle" TargetType="{x:Type Button}">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="FontSize" Value="25"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Height" Value="80"/>
+            <Setter Property="Width" Value="150"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border CornerRadius="7,7,7,7" Background="{TemplateBinding Background}">
+                            <ContentPresenter x:Name="contentPresenter" ContentTemplate="{TemplateBinding ContentTemplate}" Content="{TemplateBinding  Content}" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"  Margin="{TemplateBinding Padding}" VerticalAlignment="{TemplateBinding  VerticalContentAlignment}"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="FontSize" Value="30"/>
+                    <Setter Property="Cursor" Value="Hand"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Image Source="C:\Users\olivia\OneDrive\Desktop\tema1\MemoryTilesGame\bgi1.jpg" VerticalAlignment="Center" Stretch="Fill"/>
+        <TextBlock FontWeight="Bold" TextAlignment="Center" FontSize="30" Foreground="White" Margin="0,56,0,0">Select your Profile</TextBlock>
+        <ListView Name="UsersListView" FontSize="25" Background="Transparent" Foreground="White" BorderBrush="White" Margin="96,152,400,126" SelectionChanged="ShowPicture_SelectionChanged">
+            <ListView.View>
+                <GridView>
+                   
+                    <GridViewColumn DisplayMemberBinding="{Binding UserNameBinding}"></GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Image Name="ShowPicture" HorizontalAlignment="Left" Height="215" Margin="461,164,0,0" VerticalAlignment="Top" Width="213"/>
+        <UniformGrid Rows="1" Columns="4" HorizontalAlignment="Left" VerticalAlignment="Top" Height="86" Margin="128,396,0,0" Width="610">
+            <Button Content="Add User" Style="{StaticResource ButtonStyle}" x:Name="newUserButton"   Click="newUserButton_Click"/>
+            <Button Content="Delete User" Style="{StaticResource ButtonStyle}" x:Name="deleteUserButton"   Click="deleteUserButton_Click"/>
+            <Button Content="Play"  Style="{StaticResource ButtonStyle}" x:Name="playButton" Click="playButton_Clicked"/>
+            <Button Content="Exit"  Style="{StaticResource ButtonStyle}" x:Name="exitButton" Click="exitButton_Click"/>
+        </UniformGrid>
+
+    </Grid>
+</Window>

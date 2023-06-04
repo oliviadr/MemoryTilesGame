@@ -1,0 +1,84 @@
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\MemoryTilesGame\bin\Debug\MemoryTilesGame.exe.config
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\MemoryTilesGame\bin\Debug\MemoryTilesGame.exe
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\MemoryTilesGame\bin\Debug\MemoryTilesGame.pdb
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\MemoryTilesGame\obj\Debug\MemoryTilesGame.csproj.AssemblyReference.cache
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\MemoryTilesGame\obj\Debug\MemoryTilesGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\MemoryTilesGame\obj\Debug\MainWindow.g.cs
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\MemoryTilesGame\obj\Debug\App.g.cs
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\MemoryTilesGame\obj\Debug\MemoryTilesGame_MarkupCompile.cache
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\MemoryTilesGame\obj\Debug\MemoryTilesGame_MarkupCompile.lref
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\MemoryTilesGame\obj\Debug\MainWindow.baml
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\MemoryTilesGame\obj\Debug\MemoryTilesGame.g.resources
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\MemoryTilesGame\obj\Debug\MemoryTilesGame.Properties.Resources.resources
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\MemoryTilesGame\obj\Debug\MemoryTilesGame.csproj.GenerateResource.cache
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\MemoryTilesGame\obj\Debug\MemoryTilesGame.csproj.CoreCompileInputs.cache
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\MemoryTilesGame\obj\Debug\MemoryTilesGame.exe
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\MemoryTilesGame\obj\Debug\MemoryTilesGame.pdb
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\MemoryTilesGame\obj\Debug\NewUserWindow.g.cs
+C:\Users\manea\OneDrive\Desktop\Anul 2 Semestrul 2\MVP\MemoryTilesGame\obj\Debug\NewUserWindow.baml
+C:\Users\User\Desktop\te1\MemoryTilesGame\bin\Debug\MemoryTilesGame.exe.config
+C:\Users\User\Desktop\te1\MemoryTilesGame\bin\Debug\MemoryTilesGame.exe
+C:\Users\User\Desktop\te1\MemoryTilesGame\bin\Debug\MemoryTilesGame.pdb
+C:\Users\User\Desktop\te1\MemoryTilesGame\obj\Debug\MemoryTilesGame.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\te1\MemoryTilesGame\obj\Debug\MemoryTilesGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\te1\MemoryTilesGame\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\te1\MemoryTilesGame\obj\Debug\NewUserWindow.g.cs
+C:\Users\User\Desktop\te1\MemoryTilesGame\obj\Debug\App.g.cs
+C:\Users\User\Desktop\te1\MemoryTilesGame\obj\Debug\MemoryTilesGame_MarkupCompile.cache
+C:\Users\User\Desktop\te1\MemoryTilesGame\obj\Debug\MemoryTilesGame_MarkupCompile.lref
+C:\Users\User\Desktop\te1\MemoryTilesGame\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\te1\MemoryTilesGame\obj\Debug\NewUserWindow.baml
+C:\Users\User\Desktop\te1\MemoryTilesGame\obj\Debug\MemoryTilesGame.g.resources
+C:\Users\User\Desktop\te1\MemoryTilesGame\obj\Debug\MemoryTilesGame.Properties.Resources.resources
+C:\Users\User\Desktop\te1\MemoryTilesGame\obj\Debug\MemoryTilesGame.csproj.GenerateResource.cache
+C:\Users\User\Desktop\te1\MemoryTilesGame\obj\Debug\MemoryTilesGame.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\te1\MemoryTilesGame\obj\Debug\MemoryTilesGame.exe
+C:\Users\User\Desktop\te1\MemoryTilesGame\obj\Debug\MemoryTilesGame.pdb
+C:\Users\User\Desktop\te1\MemoryTilesGame\obj\Debug\GameWindow.g.cs
+C:\Users\User\Desktop\te1\MemoryTilesGame\obj\Debug\GameWindow.baml
+C:\Users\User\Desktop\te1\MemoryTilesGame\obj\Debug\GameLoad.g.cs
+C:\Users\User\Desktop\te1\MemoryTilesGame\obj\Debug\GameLoad.baml
+C:\Users\olivia\OneDrive\Desktop\tema1\MemoryTilesGame\bin\Debug\MemoryTilesGame.exe.config
+C:\Users\olivia\OneDrive\Desktop\tema1\MemoryTilesGame\bin\Debug\MemoryTilesGame.exe
+C:\Users\olivia\OneDrive\Desktop\tema1\MemoryTilesGame\bin\Debug\MemoryTilesGame.pdb
+C:\Users\olivia\OneDrive\Desktop\tema1\MemoryTilesGame\obj\Debug\MemoryTilesGame.csproj.AssemblyReference.cache
+C:\Users\olivia\OneDrive\Desktop\tema1\MemoryTilesGame\obj\Debug\MemoryTilesGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\olivia\OneDrive\Desktop\tema1\MemoryTilesGame\obj\Debug\GameLoad.g.cs
+C:\Users\olivia\OneDrive\Desktop\tema1\MemoryTilesGame\obj\Debug\GameWindow.g.cs
+C:\Users\olivia\OneDrive\Desktop\tema1\MemoryTilesGame\obj\Debug\MainWindow.g.cs
+C:\Users\olivia\OneDrive\Desktop\tema1\MemoryTilesGame\obj\Debug\NewUserWindow.g.cs
+C:\Users\olivia\OneDrive\Desktop\tema1\MemoryTilesGame\obj\Debug\App.g.cs
+C:\Users\olivia\OneDrive\Desktop\tema1\MemoryTilesGame\obj\Debug\MemoryTilesGame_MarkupCompile.cache
+C:\Users\olivia\OneDrive\Desktop\tema1\MemoryTilesGame\obj\Debug\MemoryTilesGame_MarkupCompile.lref
+C:\Users\olivia\OneDrive\Desktop\tema1\MemoryTilesGame\obj\Debug\GameLoad.baml
+C:\Users\olivia\OneDrive\Desktop\tema1\MemoryTilesGame\obj\Debug\GameWindow.baml
+C:\Users\olivia\OneDrive\Desktop\tema1\MemoryTilesGame\obj\Debug\MainWindow.baml
+C:\Users\olivia\OneDrive\Desktop\tema1\MemoryTilesGame\obj\Debug\NewUserWindow.baml
+C:\Users\olivia\OneDrive\Desktop\tema1\MemoryTilesGame\obj\Debug\MemoryTilesGame.g.resources
+C:\Users\olivia\OneDrive\Desktop\tema1\MemoryTilesGame\obj\Debug\MemoryTilesGame.Properties.Resources.resources
+C:\Users\olivia\OneDrive\Desktop\tema1\MemoryTilesGame\obj\Debug\MemoryTilesGame.csproj.GenerateResource.cache
+C:\Users\olivia\OneDrive\Desktop\tema1\MemoryTilesGame\obj\Debug\MemoryTilesGame.csproj.CoreCompileInputs.cache
+C:\Users\olivia\OneDrive\Desktop\tema1\MemoryTilesGame\obj\Debug\MemoryTilesGame.exe
+C:\Users\olivia\OneDrive\Desktop\tema1\MemoryTilesGame\obj\Debug\MemoryTilesGame.pdb
+C:\Users\olivia\OneDrive\Desktop\a\tema1\MemoryTilesGame\bin\Debug\MemoryTilesGame.exe.config
+C:\Users\olivia\OneDrive\Desktop\a\tema1\MemoryTilesGame\bin\Debug\MemoryTilesGame.exe
+C:\Users\olivia\OneDrive\Desktop\a\tema1\MemoryTilesGame\bin\Debug\MemoryTilesGame.pdb
+C:\Users\olivia\OneDrive\Desktop\a\tema1\MemoryTilesGame\obj\Debug\MemoryTilesGame.csproj.AssemblyReference.cache
+C:\Users\olivia\OneDrive\Desktop\a\tema1\MemoryTilesGame\obj\Debug\MemoryTilesGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\olivia\OneDrive\Desktop\a\tema1\MemoryTilesGame\obj\Debug\GameLoad.g.cs
+C:\Users\olivia\OneDrive\Desktop\a\tema1\MemoryTilesGame\obj\Debug\GameWindow.g.cs
+C:\Users\olivia\OneDrive\Desktop\a\tema1\MemoryTilesGame\obj\Debug\MainWindow.g.cs
+C:\Users\olivia\OneDrive\Desktop\a\tema1\MemoryTilesGame\obj\Debug\NewUserWindow.g.cs
+C:\Users\olivia\OneDrive\Desktop\a\tema1\MemoryTilesGame\obj\Debug\App.g.cs
+C:\Users\olivia\OneDrive\Desktop\a\tema1\MemoryTilesGame\obj\Debug\MemoryTilesGame_MarkupCompile.cache
+C:\Users\olivia\OneDrive\Desktop\a\tema1\MemoryTilesGame\obj\Debug\MemoryTilesGame_MarkupCompile.lref
+C:\Users\olivia\OneDrive\Desktop\a\tema1\MemoryTilesGame\obj\Debug\GameLoad.baml
+C:\Users\olivia\OneDrive\Desktop\a\tema1\MemoryTilesGame\obj\Debug\GameWindow.baml
+C:\Users\olivia\OneDrive\Desktop\a\tema1\MemoryTilesGame\obj\Debug\MainWindow.baml
+C:\Users\olivia\OneDrive\Desktop\a\tema1\MemoryTilesGame\obj\Debug\NewUserWindow.baml
+C:\Users\olivia\OneDrive\Desktop\a\tema1\MemoryTilesGame\obj\Debug\MemoryTilesGame.g.resources
+C:\Users\olivia\OneDrive\Desktop\a\tema1\MemoryTilesGame\obj\Debug\MemoryTilesGame.Properties.Resources.resources
+C:\Users\olivia\OneDrive\Desktop\a\tema1\MemoryTilesGame\obj\Debug\MemoryTilesGame.csproj.GenerateResource.cache
+C:\Users\olivia\OneDrive\Desktop\a\tema1\MemoryTilesGame\obj\Debug\MemoryTilesGame.csproj.CoreCompileInputs.cache
+C:\Users\olivia\OneDrive\Desktop\a\tema1\MemoryTilesGame\obj\Debug\MemoryTilesGame.exe
+C:\Users\olivia\OneDrive\Desktop\a\tema1\MemoryTilesGame\obj\Debug\MemoryTilesGame.pdb

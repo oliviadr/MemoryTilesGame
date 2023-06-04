@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <User>
+    <userName>sfsdf</userName>
+    <imageNumber>1</imageNumber>
+    <wongames>1</wongames>
+    <playedGames>3</playedGames>
+  </User>
+  <User>
+    <userName>iyce</userName>
+    <imageNumber>2</imageNumber>
+    <wongames>1</wongames>
+    <playedGames>2</playedGames>
+  </User>
+  <User>
+    <userName>gfjfgjfg</userName>
+    <imageNumber>3</imageNumber>
+    <wongames>2</wongames>
+    <playedGames>11</playedGames>
+  </User>
+  <User>
+    <userName>ebdv</userName>
+    <imageNumber>2</imageNumber>
+    <wongames>0</wongames>
+    <playedGames>1</playedGames>
+  </User>
+</Users>
